@@ -1,1 +1,1 @@
-# hyperparameter-tuning-the-keras-DNN-model
+# hyperparameter-tuning-and-regularization-using-the-keras-DNN-model
